@@ -2,7 +2,7 @@
 
 usage:
 
-  qmake -project
-  add 'QT += widgets' to your .pro file
-  qmake
-  make
+  qmake -project  
+  add 'QT += widgets' to your .pro file  
+  qmake  
+  make  
