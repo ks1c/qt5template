@@ -1,2 +1,8 @@
 # qt5template
-Qt5 template
+
+usage:
+
+  qmake -project
+  add 'QT += widgets' to your .pro file
+  qmake
+  make
